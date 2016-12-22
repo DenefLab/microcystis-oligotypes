@@ -1,13 +1,13 @@
 # microcystis-oligotypes
 
-This is a repository for a case study of Microcystis oligotypes
+This is a repository for a case study of Microcystis oligotypes.
 
 ## R
-This directory contains the Rmd analyisi file for this project as well as rendered pdf and html versions. 
+This directory contains the Rmd analysis file for this project with rendered pdf and html versions. 
 This directory also contains csv files for the oligotype counts and the sample environmental data. 
 
-## paper
-This directory contains the .docx and .pdf versions of the perspective and supplement.
+## metagenome-analysis
+This directory contains scripts for extracting target gene orthologs from assembled genomes/metagenomes.
 
 ## plots
 This directory contains raw and formatted plots used in the main and supplement.
