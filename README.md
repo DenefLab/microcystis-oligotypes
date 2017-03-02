@@ -1,6 +1,6 @@
 # microcystis-oligotypes
 
-This is a repository for a case study of Microcystis oligotypes.
+This is a repository for a perspective piece on the use of the oligotyping method in microbial ecology research. The publication in Frontiers in Microbiology can be found here: http://journal.frontiersin.org/article/10.3389/fmicb.2017.00365/abstract
 
 ## R
 This directory contains the Rmd analysis file for this project with rendered pdf and html versions. 
